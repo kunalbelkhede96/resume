@@ -1,0 +1,26 @@
+Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.
+
+Primary Skills
+Proficient in writing, modularizing, and maintaining Terraform configurations for provisioning cloud infrastructure.
+Experience with Terraform state management (local and remote), workspaces, and backends (e.g., Azure Storage Account).
+Hands-on with Terraform modules, variables, outputs, and lifecycle rules.
+Familiarity with Terraform Cloud or Enterprise for collaboration and policy enforcement.
+Expertise in designing and implementing CI/CD pipelines using Azure DevOps Pipelines (YAML and Classic).
+Integration of Terraform into Azure DevOps pipelines for automated infrastructure deployment.
+Use of pipeline stages, jobs, templates, and environments for structured deployments.
+Experience with pipeline triggers, approvals, and gated releases.
+Strong understanding of core Azure services (e.g., Azure Resource Manager, Virtual Networks, Key Vault, App Services, AKS).
+Experience deploying and managing Azure resources using Terraform.
+Familiarity with Azure RBAC, service principals, and managed identities for secure automation.
+Proficient in Git-based workflows (feature branching, pull requests, code reviews).
+Experience integrating Git repositories (Azure Repos, GitHub) with Azure DevOps pipelines.
+Implementing secure practices in IaC (e.g., secrets management via Azure Key Vault).
+Familiarity with tools like Sentinel, Checkov, or TFLint for policy-as-code and static analysis
+Secondary Skills
+Scripting with PowerShell, Bash, or Python for automation tasks.
+Integration with Azure Monitor, Log Analytics, and Application Insights.
+Basic knowledge of Docker and Kubernetes (especially AKS).
+Exposure to configuration management tools like Ansible or Chef.
+Experience working in Agile teams and understanding of DevOps principles.
+Awareness of cost-effective infrastructure design and Azure pricing models.
+Relevant certifications such as Azure Administrator Associate, Terraform Associate, or DevOps Engineer Expert.
